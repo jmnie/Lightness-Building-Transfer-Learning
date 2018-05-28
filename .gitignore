@@ -1,0 +1,17 @@
+/venv
+/.vscode
+/.idea
+
+
+
+*.aux
+*.out
+*.xml
+*.gz
+*.tar
+*.csv
+*.log
+*.bib
+*.json
+*.iml
+
